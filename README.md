@@ -39,5 +39,3 @@ A decentralized voting platform integrating AI reputation scoring, BrightID veri
 Connect
 
 Email: smartmindent@gmail.com
-
-Twitter: @sammy poa
