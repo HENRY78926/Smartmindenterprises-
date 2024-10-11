@@ -1,5 +1,5 @@
 
-NAME: HENRY78926
+NAME: HENRY78926 /smartmind.
 
 Blockchain Developer | AI Enthusiast | Decentralized Governance Advocate
 
